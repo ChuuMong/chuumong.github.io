@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Test Test
+title: Test
 ---
 
 <ul class="posts">
