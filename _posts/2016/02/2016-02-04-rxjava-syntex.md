@@ -8,6 +8,8 @@ tags : [Android, RxJava, ReactiveX]
 
 {% include JB/setup %}
 
+하단의 Reference를 참조하여 작성, 주요 사용되는 RxJava 클래스와 Observable에서 호출되는 메소드를 다룸
+
 ##RxJava Class
 
 - `Observable`  
