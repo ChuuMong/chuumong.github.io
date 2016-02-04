@@ -10,7 +10,7 @@ tags : [Android, RxJava, ReactiveX]
 
 하단의 Reference를 참조하여 작성, 주요 사용되는 RxJava 클래스와 Observable에서 호출되는 메소드를 다룸
 
-##RxJava Class
+## RxJava Class
 
 - `Observable`  
 이벤트를 발생시키는 주체, onNext / onCompleted / onError를 이용하여 이벤트를 발생 시킴
