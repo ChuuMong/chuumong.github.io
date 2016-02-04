@@ -7,3 +7,4 @@ tags : [Android, RxJava, ReactiveX]
 
 {% include JB/setup %}
 
+Test
