@@ -48,7 +48,7 @@ patch는 버그가 수정되는 경우, 값이 증가한다.
 
 ## Reference
 
-[How to Use CocoaPods with Swift](http://www.raywenderlich.com/97014)
+[How to Use CocoaPods with Swift](http://www.raywenderlich.com/97014)  
 [app 버전 관리](http://linuxism.tistory.com/920)
 
 
