@@ -25,4 +25,8 @@ tags : [Android, Activity]
 
 1. Intent 생성
 2. Bundle 객체를 생성하여 값을 저장하고 Intent의 `putExtras(Bundle)`를 호출하여 Bundle 객체를 저장
+<<<<<<< HEAD
 3. `setResult(Int, Intent)` 호출하여 Activity A로 Intent 전달
+=======
+3. `setResult(Int, Intent)` 호출하여 Activity A로 Intent 전달
+>>>>>>> 97beb65edaaf387dff0fe7f38ee54a2e4c5c7645
