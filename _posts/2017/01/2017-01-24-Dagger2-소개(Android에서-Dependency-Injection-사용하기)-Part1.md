@@ -3,7 +3,7 @@ layout: post
 category : Android
 title : "[Dagger2] Dagger2 소개(Android에서 Dependency Injection 사용하기) Part1"
 description : ""
-tags : [Android, DI, Dagger2]
+tags : [Android, DI]
 ---
 
 {% include JB/setup %}
