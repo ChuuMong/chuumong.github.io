@@ -45,6 +45,7 @@ tags : [Android, Android Studio]
 
 - Layout Editor에 업데이트 된 위젯 Palette를 사용하면 레이아웃 위젯을 찾기 위해 검색, 정렬 및 필터링을 수행 할 수 있으며, 디자인 화면으로 드래그하기 전에 미리 위젯을 볼 수 있음
 - [자세히 알아보기](https://developer.android.com/studio/write/layout-editor.html)
+
 ![](https://2.bp.blogspot.com/-jSZ8PNpvBiA/WLhTRsb9WeI/AAAAAAAAD8M/Y51t1L6PeNYkYzlIljJglYNjIwtM6a6UwCLcB/s640/Screen%2BShot%2B2017-03-02%2Bat%2B9.14.58%2BAM.png)
 
 ### Layout 즐겨찾기
@@ -52,6 +53,7 @@ tags : [Android, Android Studio]
 - 레이아웃 편집기 속성 패널에서 즐겨쓰는 속성을 저장
 - 고급 패널에서 속성에 별표를 표시하면 즐겨찾기 섹션 아래에 나타남
 - [자세히 알아보기](https://developer.android.com/studio/write/layout-editor.html#edit-properties)
+
 ![](https://4.bp.blogspot.com/-7yoX1jWDGlE/WLhTni8yKOI/AAAAAAAAD8Q/h6o5zBW3KLAvJG_o6gGySoYukzofXw_TACLcB/s640/fav_attributes.gif)
 
 ### WebP 지원
@@ -61,12 +63,14 @@ tags : [Android, Android Studio]
 - PNG 파일을 마우스 오른쪽 버튼으로 클릭하여 WebP로 변환 가능
 - 이미지를 편집해야하는 경우 프로젝트의 모든 WebP 파일을 마우스 오른쪽 버튼으로 클릭하여 PNG로 다시 변환 할 수 있음
 - [자세히 알아보기](https://developer.android.com/studio/write/convert-webp.html)
+
 ![](https://4.bp.blogspot.com/-3K11mY1HWU0/WLhT0txvfSI/AAAAAAAAD8U/3958U0j0-Uomhux5IHPd4_a63aBtTx_NwCLcB/s640/Screen%2BShot%2B2017-03-02%2Bat%2B9.17.47%2BAM.png)
 
 ### Material 아이콘 마법사 업데이트
 
 - 업데이트 된 vector asset 마법사는 검색 및 필터링을 지원하고 각 아이콘 asset에 대한 라벨을 포함
 - [자세히 알아보기](https://developer.android.com/studio/write/vector-asset-studio.html#materialicon)
+
 ![](https://1.bp.blogspot.com/-HHsLdicp6u4/WLhT-H1An0I/AAAAAAAAD8Y/YcPIiaLzCs4AJImz5SYqeenzribDXrWowCLcB/s640/Screen%2BShot%2B2017-03-02%2Bat%2B9.18.30%2BAM.png)
 
 ## Develop
@@ -85,12 +89,14 @@ tags : [Android, Android Studio]
 - App Links Assistant를 사용하면 URL에 대한 인텐트 필터를 쉽게 만들고 Digital Asset Links 파일을 통해 앱에 대한 웹사이트 연결을 선언 할 수 있으며 Android 앱 링크 지원을 테스트 할 수 있음
 - App Link Assistant에 액세스하려면 Tools → App Link Assistant
 - [자세히 알아보기](https://developer.android.com/studio/write/app-link-indexing.html)
+
 ![](https://4.bp.blogspot.com/-9msX55F8JgU/WLhUXi8TPAI/AAAAAAAAD8g/Z067RdnFg3MzIPq-rEppNFVF7fAs80-0wCLcB/s640/Screen%2BShot%2B2017-03-02%2Bat%2B9.19.52%2BAM.png)
 
 ### Template 업데이트 
 
 - 기본적으로 RelativeLayout을 포함하는 Android Studio 2.3의 모든 템플릿은 이제 ConstraintLayout을 사용
 - [Templates](https://developer.android.com/studio/projects/templates.html)과 [ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
+
 ![](https://1.bp.blogspot.com/-J-zTDlFeDuo/WLhUkDxBcCI/AAAAAAAAD8k/0y0o1zNrBdEOJr8gFaNTxjQQniFdXaA4wCLcB/s640/Screen%2BShot%2B2017-03-02%2Bat%2B9.20.57%2BAM.png)
 
 ### IntelliJ 플랫폼 업데이트
