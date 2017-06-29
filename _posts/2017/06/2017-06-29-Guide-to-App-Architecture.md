@@ -397,8 +397,8 @@ public class UserRepository {
 - Webservice: 외부 세계와 독립적으로 테스트르 수행하는 것이 중요하므로 `Webservice` 테스트에서도 백엔드에 네트워크 호출을 하지 않아야합니다. 이것에 도움되는 라이브러리가 많이 있습니다. 예를 들어, [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver)는 테스트를 위해 까자 로컬 서버를 만드는데 도움이 되는 훌륭한 라이브러리입니다.
 
 - Testing Artifacts Architecture Components는 백그라운드 스레드를 제어하기 위해 메이븐 아티팩트를 제공합니다. `android.arch.core:core-testing` 아티팩트에는 두가지 JUnit 규칙이 있습니다.
--- `InstantTaskExecutorRule`: 이 규칙은 아키텍쳐 구성요소가 호출 스레드에서 모든 백그라운드 작업을 즉시 실행할 수 있도록 하는데 사용 할 수 있습니다.
--- `CountingTaskExecutorRule`: 이 규칙은 계측 테스트에서 아키텍쳐 구성요소의 백그라운드 작업을 기다리고나 idie 리소스로 Espresso에 연결하는데 사용 할 수 있습니다.
+  - `InstantTaskExecutorRule`: 이 규칙은 아키텍쳐 구성요소가 호출 스레드에서 모든 백그라운드 작업을 즉시 실행할 수 있도록 하는데 사용 할 수 있습니다.
+  - `CountingTaskExecutorRule`: 이 규칙은 계측 테스트에서 아키텍쳐 구성요소의 백그라운드 작업을 기다리고나 idie 리소스로 Espresso에 연결하는데 사용 할 수 있습니다.
 
 ### 최종 아키텍쳐
 
