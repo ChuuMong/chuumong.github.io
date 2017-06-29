@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Android
-title : "Android 앱 아키텍쳐 가이드"
+title : "[Architecture] Android 앱 아키텍쳐 가이드"
 description : ""
 tags : [Android, Architecture]
 ---
