@@ -1,9 +1,9 @@
 ---
 layout: post
 category : Android
-title : "[Architecture] Android 앱 아키텍쳐 가이드"
+title : "[Architecture] Android lifecycle-aware components codelab"
 description : ""
-tags : [Android, Architecture]
+tags : [Android, Architecture, lifecycle]
 ---
 
 {% include JB/setup %}
