@@ -1,4 +1,5 @@
-이 글은 [](https://levelup.gitconnected.com/android-fragments-common-queries-and-mistakes-915b4a1f34ce)
+이 글은 [Android Fragments Common Queries And Mistakes
+](https://levelup.gitconnected.com/android-fragments-common-queries-and-mistakes-915b4a1f34ce)
 의 번역본이며 문제가 발생 할 시에 제거 될 수 있습니다.
 
 안드로이드에서 `Fragment` class는 다이나믹한 UI를 작성하는데 사용되며 Activity 내에서 사용해야 합니다. Fragment를 사용하는 가장 큰 장점은 여러 화면 크기의 UI를 만드는 작업을 단순화 한다는 것입니다. Activity에는 여러 개의 Fragment가 포함 될 수 있습니다.
